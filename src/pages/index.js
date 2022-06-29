@@ -4,9 +4,9 @@ const IndexPage = () => {
   return (
     <main>
       <title>Home Page</title>
-      <h1>The N Word no no no the slur</h1>
+      <h1>Construction in Progress</h1>
       <p>-Tyler 6/28</p>
-      <p> I hope you hang yourself</p>
+      <p>0% Done</p>
     </main>
   )
 }
